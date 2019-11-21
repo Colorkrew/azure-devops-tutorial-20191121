@@ -28,4 +28,5 @@ steps:
   displayName: Build and Push
   inputs:
     command: 'buildAndPush'
+    repository: IsaoCorp/azure-devops-tutorial-20191121
     Dockerfile: '**/Dockerfile'
